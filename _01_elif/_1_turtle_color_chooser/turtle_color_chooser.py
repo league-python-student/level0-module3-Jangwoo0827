@@ -13,7 +13,26 @@ def get_random_color():
 if __name__ == '__main__':
     window = turtle.Screen()
     window.bgcolor('white')
-
+    #log out next time I hack ur github
+    #log out next time I hack ur github
+    #log out next time I hack ur github
+    #log out next time I hack ur github
+    #log out next time I hack ur github
+    #log out next time I hack ur github
+    #log out next time I hack ur github
+    #log out next time I hack ur github
+    #log out next time I hack ur github
+    #log out next time I hack ur github
+    #log out next time I hack ur github
+    #log out next time I hack ur github
+    #log out next time I hack ur github
+    #log out next time I hack ur github
+    #log out next time I hack ur github
+    #log out next time I hack ur github
+    #log out next time I hack ur github
+    #log out next time I hack ur github
+    
+    
     # TODO 1) Create a new Turtle
     #      2) Make the turtle draw a shape (this will take more than one line
     #         of code)
@@ -27,3 +46,6 @@ if __name__ == '__main__':
 
     # ===================== DO NOT EDIT THE CODE BELOW ============================
     turtle.done()
+
+
+
